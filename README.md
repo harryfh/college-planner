@@ -1,5 +1,5 @@
 # college-planner
-A College Planner spreadsheet made with pure google sheets
+A College Planner spreadsheet made with pure google sheets. You can check it out here: [Spreadsheet Link](https://docs.google.com/spreadsheets/d/1mebg6CwAwb_DnnIWkItVLxY_geAs_DtxKXBXNXsLLaw/edit?usp=sharing)
 
 ### Why...
 
